@@ -1,6 +1,6 @@
 .about{
     padding:80px 60px;
-    background:#ffffff;
+    background:#baabab;
     text-align:center;
 }
 
@@ -23,7 +23,7 @@
 }
 
 .card{
-    background:#f4f4f4;
+    background:#896262;
     padding:30px;
     border-radius:10px;
     transition:0.3s;
