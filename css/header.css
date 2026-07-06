@@ -54,6 +54,10 @@ body{
 }
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> header
 @media (max-width: 992px){
 
     .navbar{
@@ -94,4 +98,8 @@ body{
         max-width: 200px;
     }
 
+<<<<<<< HEAD
 } 
+=======
+}
+>>>>>>> header
